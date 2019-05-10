@@ -5,14 +5,14 @@
 ### Tools
 ---------
 
-* Xcode(App Store)
-* Google Chrome([download](https://www.google.com/intl/pt-BR/chrome/))
-* Evernote([download](https://evernote.com/intl/pt-br/download))
+* Xcode (App Store)
+* Google Chrome ([download](https://www.google.com/intl/pt-BR/chrome/))
+* Evernote ([download](https://evernote.com/intl/pt-br/download))
 * Homebrew ([install](http://osxdaily.com/2018/03/07/how-install-homebrew-mac-os/))
-* Vim(brew install vim)
+* Vim (brew install vim)
 * Zsh (sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)")
 * Git (brew install git)
-* iTerm2(brew cask install iterm2)
+* iTerm2 (brew cask install iterm2)
 * Java 8 ([download](https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html))
 * Maven (brew install maven)
 * Python 3 ([download](https://www.python.org/downloads/release/python-361/))
@@ -23,6 +23,8 @@
 * VirtualBox ([download](https://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html))
 * Tree (brew install tree)
 * Htop (brew install htop)
+* NodeJS ([download](https://nodejs.org/en/download/))
+* NVM ([install](http://dev.topheman.com/install-nvm-with-homebrew-to-use-multiple-versions-of-node-and-iojs-easily/))
 
 
 ### Customizations
