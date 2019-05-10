@@ -29,3 +29,15 @@
 ------------------
 
 - [ZSH](zsh/README.md)
+
+
+### Git Setup
+-------------
+
+```
+ssh-keygen -t rsa -b 4096 -C "fabianogoes@gmail.com"
+
+git config --global user.name "Fabiano Góes"
+git config --global user.email fabianogoes@gmail.com
+```
+
