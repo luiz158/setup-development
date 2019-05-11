@@ -17,6 +17,7 @@
 * Maven (brew install maven)
 * Python 3 ([download](https://www.python.org/downloads/release/python-361/))
 * IntelliJ ([download](https://www.jetbrains.com/idea/download/))
+* Robo 3T ([download](https://robomongo.org/download))
 * Docker ([download](https://docs.docker.com/docker-for-mac/install))
 * AwsCli ([install](https://aws.amazon.com/pt/cli/))
 * Visual Studio Code ([install](https://www.code2bits.com/how-to-install-visual-studio-code-on-macos-using-homebrew/))
